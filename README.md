@@ -1,2 +1,2 @@
 # allprojects
-author - chintan patel
+author - Chintan (SDET)
